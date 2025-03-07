@@ -16,7 +16,4 @@ jobs:
         with:
           collection: 
           - go_rest.postman_collection.json
-          - google_place_api.postman_collection.json
-          - library_API.postman_collection.json
-          environment: qa.postman_environment.json
 
