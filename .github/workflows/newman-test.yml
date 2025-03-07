@@ -14,6 +14,5 @@ jobs:
       - uses: actions/checkout@master
       - uses: matt-ball/newman-action@master
         with:
-          collection: 
-          - go_rest.postman_collection.json
+          collection: go_rest.postman_collection.json
 
